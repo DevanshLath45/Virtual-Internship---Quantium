@@ -1,10 +1,9 @@
-# Virtual Internship - Quantium
+### Quantium Data Analytics Virtual Experience Program (Forage)
 
-I completed Quantium Data Analytics Job Simulation on Forage. In the simulation I:
-Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
-Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
-Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
-Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+- Completed a job simulation focused on **Data Analytics and Commercial Insights** for the data science team  
+- Developed expertise in **data preparation** and **customer analytics** using transaction datasets to extract valuable insights and deliver data-driven commercial recommendations  
+- Identified **benchmark stores** for uplift testing of trial store layouts, supporting **evidence-based decision-making**  
+- Created comprehensive reports for the **Category Manager**, leveraging insights to enhance **strategic decisions** and **commercial applications**
 
 Certificate of Completion
 
